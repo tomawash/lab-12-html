@@ -1,0 +1,30 @@
+* {
+	font-family: Geneva, sans-serif;
+	background-color: antiquewhite;
+}
+
+p, h2 {
+	color: green;
+}
+
+h1 {
+	text-transform: uppercase;
+	margin-left: 200px;
+}
+
+h4 {
+	background-color: : coral;
+	padding: 5px;
+}
+
+a {
+	color: magenta;
+}
+
+#intro {
+	border-width: 10px;
+}
+
+.spotlight {
+	background-color: yellow;
+}
